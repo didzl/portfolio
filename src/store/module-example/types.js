@@ -1,0 +1,4 @@
+export const T = {
+    JOIN_USER: "JOIN_USER",
+    CHANGE_SUCCESS_MESSAGE: "CHANGE_SUCCESS_MESSAGE",
+  };
